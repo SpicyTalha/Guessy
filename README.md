@@ -1,6 +1,6 @@
-# guessy
+# Guessy
 
-A new Flutter project.
+A fun Quiz App for flutter
 
 ## Getting Started
 
